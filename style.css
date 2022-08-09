@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+.hd{
+    background-color: #31b997;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: small;
+    color: white;
+}
+.hd p{
+    display: inline;
+}
