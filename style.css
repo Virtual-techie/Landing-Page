@@ -146,3 +146,43 @@ width: 100%;
     flex-direction: column;
     text-align: justify;
 }
+
+.sponsors{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3em 16em;
+}
+.sponsors img{
+    height:50px;
+    width: 96px;
+    border: 1px solid rgb(210, 210, 210);
+}
+.contact{
+    background-color: #1e1c1c;
+    color: white;
+    text-align: left;
+    padding: 1em 4em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.contact ul{
+   line-height: 2em;
+}
+.contact h2{
+    font-size: large;
+}
+.contact hr{
+    width: 2em;
+    margin-left: 0;
+    border: 1px solid aqua;
+}
+.contact-1{
+    width: 30%;
+}
+.contact-2 ul{
+    padding: 0;
+}
+.contact-3 p{
+    width: 80%;
+}
