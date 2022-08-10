@@ -9,7 +9,11 @@ body{
     justify-content: space-between;
     font-size: small;
     color: white;
+    padding: 0 3em;
+}
+.social-corner{
+    display: flex;
 }
 .hd p{
-    display: inline;
+    margin: .5em;
 }
