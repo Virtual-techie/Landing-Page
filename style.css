@@ -186,3 +186,14 @@ width: 100%;
 .contact-3 p{
     width: 80%;
 }
+.ft{
+    text-align: left;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 0 5em;
+    color: white;
+    font-size: small;
+}
