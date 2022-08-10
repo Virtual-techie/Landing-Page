@@ -97,3 +97,52 @@ h1{
     padding-bottom: 1em;
     width: 40%;
 }
+hr{
+    width: 15%;
+    border: 0 px gray;
+}
+.icon{
+    margin: .5em;
+}
+.desc{
+    border-style: solid;
+}
+.blog{
+    display: flex;
+    margin:1em 3em 2em;
+    
+}
+.blog-img-1{
+width: 100%;
+}
+.like{
+    display: flex;
+    justify-content: space-between;
+    color: grey;
+}
+.blog-card{
+    width: 50%;
+    padding: 0.5em;
+    margin: 1em;
+    display: flex;
+    flex-direction: column;
+    border-color: whitesmoke;
+    text-align: left;
+}
+.blog-card h2{
+    margin: 0;
+}
+.blog-card a{
+    display: block;
+    text-align: right;
+    color: black;
+}
+.blog-card-1{
+    border: 1px solid rgb(210, 210, 210);
+    border-top: 0;
+    padding: 1em;
+    padding-top: 0;
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+}
