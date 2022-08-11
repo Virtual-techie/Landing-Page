@@ -1,0 +1,4 @@
+hi 
+here are some suggestions
+1. intro image is too big
+@. try to keep same margin from left and right for every element, e.g. if header have 100px margin then blog should also have 100px margin
