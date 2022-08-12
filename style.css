@@ -31,7 +31,7 @@ body{
 }
 .intro{
     background: center / cover no-repeat url('images/foodpoverty.jpg') ;
-    height: 70vh;
+    height: 60vh;
     display: flex;
     align-items: center;
     color: white;
